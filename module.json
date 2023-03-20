@@ -47,6 +47,7 @@
     }
   ],
   "esmodules": [
+    "scripts/settings/settings.js",
     "scripts/character-sheet-styling.js",
     "scripts/custom-buttons.js",
     "scripts/token-action-hud.js"
